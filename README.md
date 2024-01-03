@@ -2,7 +2,6 @@
 <h3 align="center">23 Years old teen that is passionate about modern technlogy and wish to land a spot in the tech industry. Freshly graduated from TARUMT with a bachelor in Software Systems Engineering and holds 2 internship experience under my belt. Also knowledgeable in business processes, marketing strategies, project management, networking, software testing methods, SDLC, and programming languages such as php and sql.</h3>
 
 <h3 align="left">Connect with me:</h3>
-- 📫 How to reach me **onglai0801@gmail.com**
 
 <p align="left">
 <a href="https://www.linkedin.com/in/ong-choon-teck-9173a71a6/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ong choon teck" height="30" width="40" /></a>
