@@ -12,7 +12,7 @@
 
 - 🌱 I’m currently learning **laravel, php, react**
 
-- 👨‍💻 All of my projects are available at [https://github.com/ChoonTeck17](https://github.com/ChoonTeck17)
+- 👨‍💻 All of my projects are available at [https://github.com/ChoonTeck17?tab=repositories) 
 
 - 📫 How to reach me **onglai0801@gmail.com**
   
