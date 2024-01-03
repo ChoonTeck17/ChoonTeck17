@@ -2,7 +2,7 @@
 
 <h3 align="left">Hi 👋, I'm Choon Teck</h3>
 
-<h4 align="left">Connect me through</h4>
+<h4 align="left">Connect me through: </h4>
 
 <p align="left">
 <a href="https://www.linkedin.com/in/ong-choon-teck-9173a71a6/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ong choon teck" height="30" width="40" /></a>
