@@ -10,7 +10,7 @@
 </p>
 - 🔭 I’m currently working on [student management system](https://github.com/ChoonTeck17/student)
 
-- 🌱 I’m currently learning **system design patterns, react, laravel and typescript
+- 🌱 I’m currently learning **system design patterns, react and laravel
 
 - 👨‍💻 All of my projects are available at [https://github.com/ChoonTeck17?tab=repositories) 
 
