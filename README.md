@@ -6,7 +6,7 @@
 <p align="left">
 <a href="https://www.linkedin.com/in/ong-choon-teck-9173a71a6/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ong choon teck" height="30" width="40" /></a>
 <a href="https://instagram.com/ctctctctcttt" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ctctctctcttt" height="30" width="40" /></a>
-<a href="https://my.jobstreet.com/profile/ong-choonteck-BdCGRQyp9D" target="blank"><img align="center" src="https://www.rapidrecruitmentasia.com/wp-content/uploads/2022/07/JobStreet-logo.png" alt="ong choon teck" height="30" width="40" /></a>
+<a href="https://my.jobstreet.com/profile/ong-choonteck-BdCGRQyp9D" target="blank"><img align="center" src="https://cdn.seeklearning.com.au/media/images/og/jobstreet.png" alt="ong choon teck" height="30" width="40" /></a>
 </p>
 
 - 🔭 I’m currently working on [student management system](https://github.com/ChoonTeck17/student)
