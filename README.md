@@ -9,7 +9,7 @@
 <a href="https://my.jobstreet.com/profile/ong-choonteck-BdCGRQyp9D" target="blank"><img align="center" src="https://cdn.seeklearning.com.au/media/images/og/jobstreet.png" alt="ong choon teck" height="30" width="40" /></a>
 </p>
 
-- 🔭 I’m currently working on [student management system](https://github.com/ChoonTeck17/student)
+- 🔭 I’m currently working on a simple React [food website](https://github.com/ChoonTeck17/Food-website)
 
 - 🌱 I’m currently learning *system design patterns, react and laravel*
 
