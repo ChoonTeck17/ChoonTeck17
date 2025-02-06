@@ -11,8 +11,6 @@
 
 - 🔭 I’m currently working on a simple React [food website](https://github.com/ChoonTeck17/Food-website)
 
-- 🌱 I’m currently learning *system design patterns, react and laravel*
-
 - 👨‍💻 All of my projects are available at [https://github.com/ChoonTeck17?tab=repositories) 
 
 - 📫 How to reach me **onglai0801@gmail.com**
