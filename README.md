@@ -9,7 +9,7 @@
 <a href="https://my.jobstreet.com/profile/ong-choonteck-BdCGRQyp9D" target="blank"><img align="center" src="https://cdn.seeklearning.com.au/media/images/og/jobstreet.png" alt="ong choon teck" height="30" width="40" /></a>
 </p>
 
-- 🔭 I’m currently working on a [E-Commerce](https://github.com/ChoonTeck17/E-Commerce)
+- 🔭 I’m currently working on [E-Commerce](https://github.com/ChoonTeck17/E-Commerce)
 
 - 👨‍💻 All of my projects are available at [https://github.com/ChoonTeck17?tab=repositories) 
 
